@@ -9,7 +9,7 @@
  <a href="https://www.instagram.com/pri_veysaga/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://www.linkedin.com/in/priscila-loureiro-veysaga-a88a08154/">
+  <a href="https://www.linkedin.com/in/priscila-veysaga-a88a08154?trk=contact-info">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
